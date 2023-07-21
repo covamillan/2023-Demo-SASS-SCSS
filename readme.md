@@ -3,23 +3,23 @@
 "ojo! si te clonas este repo recuerda,
 lo primero que tenemos que hacer es:"
 
-    `npm i`
+    npm i
 
 ## Instalación
 
 1º Insertamos el comando en la terminal para instalarlo
 
-    `npm i -d sass`
+    npm i -d sass
 
 2º Creamos las carpetas css y sass
 
 3º Añadimos el script en package.json para que identifique las carpetas y se quede watching
 
-    `"sass":"sass sass:css --watch"`
+    "sass":"sass sass:css --watch"
 
 4º Insertamos el comando que lanza el script en la terminal
 
-    `npm run sass`
+    npm run sass
 
 ## QUÉ ES SASS
 
