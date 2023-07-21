@@ -1,0 +1,15 @@
+.button-base {
+  font-size: 14px;
+  padding: 10px;
+  background-color: blue;
+}
+
+.button-primary {
+  @extend .button-base;
+  color: white;
+}
+
+.button-secondary {
+  @extend .button-base;
+  background-color: red;
+}
