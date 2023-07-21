@@ -1,0 +1,15 @@
+@mixin button-styles {
+  font-size: 14px;
+  padding: 10px;
+}
+
+.button-primary {
+  @include button-styles;
+  background-color: blue;
+  color: white;
+}
+
+.button-secondary {
+  @include button-styles;
+  background-color: red;
+}

@@ -1,0 +1,10 @@
+$color-primario: #ff5733;
+
+.button {
+  background-color: $color-primario;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

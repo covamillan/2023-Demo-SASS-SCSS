@@ -1,0 +1,13 @@
+.contenedor {
+  width: 1000px;
+  padding: 20px;
+  background-color: lightgray;
+}
+.contenedor .elemento {
+  width: 660px;
+  background-color: coral;
+  color: white;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=calc.css.map */
