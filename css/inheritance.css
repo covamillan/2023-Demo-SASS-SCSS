@@ -1,4 +1,6 @@
-.button-base, .button-secondary, .button-primary {
+.button-base,
+.button-secondary,
+.button-primary {
   font-size: 14px;
   padding: 10px;
   background-color: blue;
